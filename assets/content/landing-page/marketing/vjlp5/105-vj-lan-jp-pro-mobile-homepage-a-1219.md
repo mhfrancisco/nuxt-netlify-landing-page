@@ -1,5 +1,5 @@
 ---
-slug_name: 105-vj-lan-jp-pro-mobile-homepage-a-1219
+slug_name: 306-bvj-lan-jp-pro-livecasino-v2-0520
 promo_locale:
   promo_country_code: jp
   promo_language_code: ja
