@@ -1,8 +1,8 @@
 backend:
   # name: git-gateway
   name: github
-  repo: kenkoy/nuxt-netlify-landing-page
-  branch: master
+  repo: mhfrancisco/mat-nuxt-netlify-landing-page
+  branch: mat/publish
 
 publish_mode: editorial_workflow
 media_folder: static/marketing/img
